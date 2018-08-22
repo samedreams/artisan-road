@@ -11,5 +11,11 @@
     * [日志](01-laravel/log.md)
 
 * [PHP内核剖析](02-php-kernel/README.md)
+    * [开篇词](02-php-kernel/writer-talk.md)
+    * [SAPI](02-php-kernel/sapi.md)
+
+* [架构那些事儿](03-architecture/README.md)
+    * [开篇词](03-architecture/writer-talk.md)
+    * [锁的那些事儿](03-architecture/lock.md)
    
    
